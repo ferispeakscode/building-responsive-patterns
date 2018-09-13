@@ -1,31 +1,37 @@
-.blue-box {
+.box {
+    height: 200px;
+    text-align: center;
+    width: 100%;
+}
+
+.blue {
     background-color:blue;
 }
 
-.orange-box {
+.orange {
     background-color:orange;
 }
 
-.green-box {
+.green {
     background-color:green;
 }
 
-.pink-box {
+.pink {
     background-color:pink;
 }
 
-.yellow-box {
+.yellow {
     background-color:yellow;
 }
 
-.red-box {
+.red {
     background-color:red;
 }
 
-.brown-box {
+.brown {
     background-color:brown;
 }
 
-.purple-box {
+.purple {
     background-color:purple;
 }
