@@ -57,3 +57,14 @@
     order: 8;
 }
 
+.black {
+    background-color:black;
+    width: 60%;
+    order: 9;
+}
+
+.grey {
+    background-color:grey;
+    width: 100%;
+    order: 10;
+}
