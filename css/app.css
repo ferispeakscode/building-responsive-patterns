@@ -1,3 +1,8 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .box {
     height: 200px;
     text-align: center;
@@ -6,32 +11,49 @@
 
 .blue {
     background-color:blue;
+    width: 15%;
+    order: 1;
 }
 
 .orange {
     background-color:orange;
+    width: 35%;
+    order: 2;
 }
 
 .green {
     background-color:green;
+    width: 15%;
+    order: 3;
 }
 
 .pink {
     background-color:pink;
+    width: 35%;
+    order: 4;
 }
 
 .yellow {
     background-color:yellow;
+    width: 33.333%;
+    order: 5;
 }
 
 .red {
     background-color:red;
+    width: 33.333%;
+    order: 6;
 }
 
 .brown {
     background-color:brown;
+    width: 33.333%;
+    order: 7;
 }
 
 .purple {
     background-color:purple;
+    width: 40%;
+    order: 8;
 }
+
